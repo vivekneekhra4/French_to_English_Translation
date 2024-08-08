@@ -1,0 +1,784 @@
+2024-08-05 11:18:04,997 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:18:04,997 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:18:04,999 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:18:19,462 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:18:19,477 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:25:28,218 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:25:28,219 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:25:28,222 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:25:54,069 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:25:54,087 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:28:44,763 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:28:44,764 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:28:44,768 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:29:10,492 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:29:10,507 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:33:23,152 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:33:23,152 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:33:23,166 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:35:41,534 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:35:41,548 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:36:17,832 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 11:36:17] "POST /translate HTTP/1.1" 200 -
+2024-08-05 11:39:35,560 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 11:39:35] "POST /translate HTTP/1.1" 200 -
+2024-08-05 11:46:44,413 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:46:44,413 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:46:44,413 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:47:09,320 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:47:09,340 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:48:01,136 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 11:48:01] "POST /translate HTTP/1.1" 200 -
+2024-08-05 11:54:12,672 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 11:54:12,672 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 11:54:12,676 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 11:55:24,922 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 11:55:24,954 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 11:56:15,099 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 11:56:15] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:16:21,532 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:16:21] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:23:22,355 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 12:23:22,355 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 12:23:22,355 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 12:24:00,121 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 12:24:00,170 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 12:24:30,374 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:24:30,389 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:24:30] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:26:00,855 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:26:00,864 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:26:00] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:43:35,166 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:43:35,166 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:43:35] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:44:37,061 - root - INFO - Translated to English: RCR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:44:37,061 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:44:37] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:46:37,322 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:46:37,323 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:46:37] "POST /translate HTTP/1.1" 200 -
+2024-08-05 12:47:41,464 - root - INFO - Translated to English: The CRP is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 12:47:41,479 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 12:47:41] "POST /translate HTTP/1.1" 200 -
+2024-08-05 13:00:10,124 - root - INFO - Translated to English: RCR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 13:00:10,124 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 13:00:10] "POST /translate HTTP/1.1" 200 -
+2024-08-05 13:09:00,802 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-05 13:09:00,802 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-05 13:09:00,810 - werkzeug - INFO -  * Restarting with stat
+2024-08-05 13:59:55,045 - werkzeug - WARNING -  * Debugger is active!
+2024-08-05 13:59:55,063 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-05 14:01:12,506 - root - INFO - Translated to English: RCR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 14:01:12,506 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 14:01:12] "POST /translate HTTP/1.1" 200 -
+2024-08-05 14:05:41,554 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 14:05:41,554 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 14:05:41] "POST /translate HTTP/1.1" 200 -
+2024-08-05 14:23:05,118 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-05 14:23:05,118 - werkzeug - INFO - 127.0.0.1 - - [05/Aug/2024 14:23:05] "POST /translate HTTP/1.1" 200 -
+2024-08-06 12:57:16,861 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 12:57:16,861 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 12:57:16,868 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 12:59:30,365 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 12:59:30,391 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 12:59:34,373 - root - INFO - Translated to English: The CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-06 12:59:34,380 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 12:59:34] "POST /translate HTTP/1.1" 200 -
+2024-08-06 12:59:52,368 - root - INFO - Translated to English: RCR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-06 12:59:52,368 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 12:59:52] "POST /translate HTTP/1.1" 200 -
+2024-08-06 13:00:57,174 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-06 13:00:57,174 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 13:00:57] "POST /translate HTTP/1.1" 200 -
+2024-08-06 13:01:50,890 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 13:01:50,890 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 13:01:50] "POST /translate HTTP/1.1" 200 -
+2024-08-06 13:10:36,276 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 13:10:36,276 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 13:10:36,292 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 13:11:09,562 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 13:11:09,613 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 13:11:15,048 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 13:11:15,050 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 13:11:15] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:01:31,596 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:01:31,596 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:01:31] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:05:58,069 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 14:05:58,070 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 14:05:58,072 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 14:06:12,408 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 14:06:12,411 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 14:06:25,787 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:06:25,788 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:06:25] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:06:59,888 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 14:06:59,889 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 14:06:59,893 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 14:07:51,315 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 14:07:51,337 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 14:07:56,996 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:07:56,998 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:07:56] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:28:41,572 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:28:41,572 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:28:41] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:33:26,971 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 14:33:26,972 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 14:33:26,976 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 14:34:39,013 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 14:34:39,031 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 14:34:44,754 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:34:44,754 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:34:44] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:35:00,178 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:35:00,183 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:35:00] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:35:02,303 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 14:35:02,313 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:35:02] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:40:01,033 - root - INFO - Translated to English: The patient presented to the ED with acute dyspnea and CP. On assessment, the nurse noted decreased breath sounds in the left lung field and suspected a PE. The ER physician ordered a STAT CTA to rule out PE and initiated IV heparin for anticoagulation. The patient's D-dimer was markedly raised at 1200 ng/mL, grapeg concern for thromboembolism. After stability, the patient was admitted to the ICU for further monitoring and management of suspected PE.
+2024-08-06 14:40:01,033 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:40:01] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:40:58,136 - root - INFO - Translated to French: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié l'héparine IV pour l'anticoagulation. Le D-dimère du patient était significativement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-06 14:40:58,137 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:40:58] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:45:13,877 - root - INFO - Translated to English: During the evaluation, the nurse noted a decrease in respiratory sounds in the left lung field and suspected PE. The ER physician directed a STA CTA to exclude PE and initiated heparin IV for anti-coagulation. The patient's D-dimer was significantly elevated to 1200 ng/mL, which raised concerns for thromboembolism.
+2024-08-06 14:45:13,877 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:45:13] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:49:41,260 - root - INFO - Translated to English: The maximum volume of air that the lungs may contain after maximum inhalation is measured in litres, as CCM of 6 litres.
+2024-08-06 14:49:41,261 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:49:41] "POST /translate HTTP/1.1" 200 -
+2024-08-06 14:50:44,011 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:50:44] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-06 14:51:25,714 - root - INFO - Translated to French: Le volume maximum d'air que les poumons peuvent contenir après une inhalation maximale. Il est mesuré en litres, comme TLC de 6 litres.
+2024-08-06 14:51:25,714 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 14:51:25] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:03:15,812 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 15:03:15,813 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:03:15] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:09:43,942 - root - INFO - Translated to English: The patient with RA complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 15:09:43,943 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:09:43] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:18:08,754 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires
+2024-08-06 15:18:08,755 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:18:08] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:20:55,525 - root - INFO - Translated to French: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-06 15:20:55,526 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:20:55] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:26:21,486 - root - INFO - Translated to English: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-06 15:26:21,509 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:26:21] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:29:11,477 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 15:29:11,477 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:29:11] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:30:37,018 - root - ERROR - English text is missing for French translation
+2024-08-06 15:30:37,022 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:30:37] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-06 15:30:59,838 - root - INFO - Translated to English: The patient with PR complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 15:30:59,838 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:30:59] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:38:44,520 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 15:38:44,520 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:38:44] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:41:25,948 - root - INFO - Translated to English: The patient with PR complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 15:41:25,948 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:41:25] "POST /translate HTTP/1.1" 200 -
+2024-08-06 15:43:41,461 - root - INFO - Translated to French: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié une héparine IV pour l'anticoagulation. Le D-dimère du patient était fortement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-06 15:43:41,461 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 15:43:41] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:02:40,662 - root - INFO - Translated to French: Le patient a subi un TKA pour une douleur grave dans le genou droit. Postopératoirement, le patient s'est plaint de douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-06 16:02:40,662 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:02:40] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:04:52,225 - root - INFO - Translated to English: The patient experienced severe AOT in the right knee. Postoperatively, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for breakthrough pain and initiated PT to facilitate early mobilization. CBCs series were monitored to assess signs of anaemia or postoperative infection.
+2024-08-06 16:04:52,225 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:04:52] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:08:49,246 - root - INFO - Translated to English: The patient experienced severe AOT in the right knee. Postoperatively, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for breakthrough pain and initiated PT to facilitate early mobilization. CBCs series were monitored to assess signs of anaemia or postoperative infection.
+2024-08-06 16:08:49,246 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:08:49] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:10:00,594 - root - INFO - Translated to English: The patient experienced severe right knee osteoarthritis PTG. In postoperative, the patient complained of incisional pain despite the use of PCA. The surgical team prescribed NSAIDs for paroxysmal painful access and initiated physiotherapy to facilitate early mobilization. Serial CBCs were monitored to assess signs of anemia or postoperative infection.
+2024-08-06 16:10:00,594 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:10:00] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:11:06,435 - root - INFO - Translated to English: The maximum volume of air that the lungs may contain after maximum inhalation is measured in litres, as CCM of 6 litres.
+2024-08-06 16:11:06,436 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:11:06] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:11:51,549 - root - ERROR - French text is missing for English translation
+2024-08-06 16:11:51,549 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:11:51] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-06 16:12:09,881 - root - INFO - Translated to French: Le volume maximum d'air que les poumons peuvent contenir après une inhalation maximale. Il est mesuré en litres, comme TLC de 6 litres.
+2024-08-06 16:12:09,881 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:12:09] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:14:08,088 - root - INFO - Translated to English: The maximum volume of air that the lungs can contain after maximum inhalation. It is measured in litres, like TLC of 6 liters.
+2024-08-06 16:14:08,088 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:14:08] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:19:39,140 - root - INFO - Translated to French: Le patient a subi un TKA pour une douleur grave dans le genou droit. Postopératoirement, le patient s'est plaint de douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-06 16:19:39,156 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:19:39] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:25:00,666 - root - INFO - Translated to English: The patient suffered a TKA for severe pain in the right knee. After surgery, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for revolutionary pain and initiated a PT to facilitate early mobilization.
+2024-08-06 16:25:00,666 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:25:00] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:26:22,518 - root - INFO - Translated to French: Après la chirurgie, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour la douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce
+2024-08-06 16:26:22,518 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:26:22] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:27:36,192 - root - INFO - Translated to French: Le patient a subi un TKA pour une douleur grave au genou droit. Postopératoirement, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-06 16:27:36,192 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:27:36] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:28:42,736 - root - INFO - Translated to English: The patient suffered a TKA for severe right knee pain. After surgery, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for revolutionary pain and initiated a PT to facilitate early mobilization.
+2024-08-06 16:28:42,736 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:28:42] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:42:57,491 - root - INFO - Translated to French: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications s'il n'est pas traité, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-06 16:42:57,491 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:42:57] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:48:14,068 - root - INFO - Translated to English: RGO is a digestive disorder where gastric acid or bile irritates the mucosa of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-06 16:48:14,068 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:48:14] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:48:38,213 - root - INFO - Translated to English: GERD is a digestive disorder where gastric acid or bile irritates the mucosa of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-06 16:48:38,218 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:48:38] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:51:29,127 - root - INFO - Translated to French: DVT est une condition où les caillots de sang se forment dans les veines profondes, généralement dans les jambes. Il peut conduire à des complications telles que l'embolie pulmonaire (quand un caillot se déplace vers les poumons) si pas traité rapidement. Les symptômes comprennent la douleur, l'enflure, la chaleur et la rougeur dans le membre affecté.
+2024-08-06 16:51:29,133 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:51:29] "POST /translate HTTP/1.1" 200 -
+2024-08-06 16:57:28,366 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 16:57:28,366 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 16:57:28,366 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 16:58:12,352 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 16:58:12,379 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 16:58:14,764 - root - INFO - Request received to translate to: french
+2024-08-06 16:58:14,764 - root - INFO - English text: DVT is a condition where blood clots form in deep veins, usually in the legs. It can lead to complications such as pulmonary embolism (when a clot travels to the lungs) if not treated promptly. Symptoms include pain, swelling, warmth, and redness in the affected limb.
+2024-08-06 16:58:14,764 - root - INFO - French text: 
+2024-08-06 16:58:19,102 - root - INFO - Translated to French: DVT est une condition où les caillots de sang se forment dans les veines profondes, généralement dans les jambes. Il peut conduire à des complications telles que l'embolie pulmonaire (quand un caillot se déplace vers les poumons) si pas traité rapidement. Les symptômes comprennent la douleur, l'enflure, la chaleur et la rougeur dans le membre affecté.
+2024-08-06 16:58:19,102 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 16:58:19] "POST /translate HTTP/1.1" 200 -
+2024-08-06 17:01:18,177 - root - INFO - Request received to translate to: english
+2024-08-06 17:01:18,179 - root - INFO - English text: 
+2024-08-06 17:01:18,179 - root - INFO - French text: La TVP est une maladie dans laquelle des caillots sanguins se forment dans les veines profondes, généralement dans les jambes. Elle peut entraîner des complications telles qu'une embolie pulmonaire (lorsqu'un caillot se déplace vers les poumons) si elle n'est pas traitée rapidement. Les symptômes comprennent une douleur, un gonflement, une chaleur et une rougeur dans le membre affecté.
+2024-08-06 17:01:24,362 - root - INFO - Translated to English: PVT is a disease in which blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 17:01:24,362 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 17:01:24] "POST /translate HTTP/1.1" 200 -
+2024-08-06 17:08:11,281 - root - INFO - Request received to translate to: french
+2024-08-06 17:08:11,281 - root - INFO - English text: CT scans combine X-ray technology with computer processing to produce cross-sectional images of the body. They provide detailed information about bones, organs, and soft tissues, helping doctors diagnose and plan treatments for conditions such as fractures, tumors, and internal injuries.
+2024-08-06 17:08:11,281 - root - INFO - French text: 
+2024-08-06 17:08:15,319 - root - INFO - Translated to French: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-06 17:08:15,323 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 17:08:15] "POST /translate HTTP/1.1" 200 -
+2024-08-06 17:08:56,060 - root - INFO - Request received to translate to: english
+2024-08-06 17:08:56,060 - root - INFO - English text: 
+2024-08-06 17:08:56,060 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-06 17:09:00,422 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-06 17:09:00,422 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 17:09:00] "POST /translate HTTP/1.1" 200 -
+2024-08-06 17:09:53,272 - root - INFO - Request received to translate to: french
+2024-08-06 17:09:53,272 - root - INFO - English text: CT scans combine X-ray technology with computer processing to produce cross-sectional images of the body. They provide detailed information about bones, organs, and soft tissues, helping doctors diagnose and plan treatments for conditions such as fractures, tumors, and internal injuries.
+2024-08-06 17:09:53,272 - root - INFO - French text: 
+2024-08-06 17:09:57,232 - root - INFO - Translated to French: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-06 17:09:57,232 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 17:09:57] "POST /translate HTTP/1.1" 200 -
+2024-08-06 17:11:28,318 - root - INFO - Request received to translate to: english
+2024-08-06 17:11:28,320 - root - INFO - English text: 
+2024-08-06 17:11:28,324 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X avec le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant ainsi les médecins à diagnostiquer et à planifier des traitements pour des affections telles que des fractures, des tumeurs et des blessures internes.
+2024-08-06 17:11:31,456 - root - INFO - Translated to English: CT scans combine X-ray technology with computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-06 17:11:31,456 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 17:11:31] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:17:12,962 - root - INFO - Request received to translate to: french
+2024-08-06 18:17:12,963 - root - INFO - English text: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (cardiac arrest). It involves chest compressions and rescue breathing to maintain circulation until advanced medical help arrives.
+2024-08-06 18:17:12,964 - root - INFO - French text: 
+2024-08-06 18:17:18,613 - root - INFO - Translated to French: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-06 18:17:18,650 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:17:18] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:18:55,808 - root - INFO - Request received to translate to: english
+2024-08-06 18:18:55,808 - root - INFO - English text: 
+2024-08-06 18:18:55,808 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-06 18:18:57,637 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-06 18:18:57,637 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:18:57] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:20:30,894 - root - INFO - Request received to translate to: french
+2024-08-06 18:20:30,894 - root - INFO - English text: DVT is a condition where blood clots form in deep veins, usually in the legs. It can lead to complications such as pulmonary embolism (when a clot travels to the lungs) if not treated promptly. Symptoms include pain, swelling, warmth, and redness in the affected limb.
+2024-08-06 18:20:30,895 - root - INFO - French text: 
+2024-08-06 18:20:34,817 - root - INFO - Translated to French: DVT est une condition où les caillots de sang se forment dans les veines profondes, généralement dans les jambes. Il peut conduire à des complications telles que l'embolie pulmonaire (quand un caillot se déplace vers les poumons) si pas traité rapidement. Les symptômes comprennent la douleur, l'enflure, la chaleur et la rougeur dans le membre affecté.
+2024-08-06 18:20:34,819 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:20:34] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:21:31,097 - root - INFO - Request received to translate to: english
+2024-08-06 18:21:31,097 - root - INFO - English text: 
+2024-08-06 18:21:31,097 - root - INFO - French text: La TVP est une affection où des caillots sanguins se forment dans les veines profondes, généralement dans les jambes. Elle peut entraîner des complications telles que l’embolie pulmonaire (lorsqu’un caillot se déplace vers les poumons) si elle n’est pas traitée rapidement. Les symptômes comprennent la douleur, l’enflure, la chaleur et la rougeur dans le membre affecté.
+2024-08-06 18:21:34,480 - root - INFO - Translated to English: PVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves to the lungs) if it is not treated quickly. Symptoms include pain, swelling, heat and redness in the affected limb.
+2024-08-06 18:21:34,481 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:21:34] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:23:11,821 - root - INFO - Request received to translate to: french
+2024-08-06 18:23:11,823 - root - INFO - English text: The patient with CKD stage 3 presented with increasing fatigue and generalized edema. Labs revealed elevated BUN and creatinine levels consistent with worsening renal function. The nephrologist recommended dietary modifications to restrict protein intake and minimize phosphorus load. The patient was referred for vascular access evaluation in preparation for future dialysis.
+2024-08-06 18:23:11,824 - root - INFO - French text: 
+2024-08-06 18:23:15,484 - root - INFO - Translated to French: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-06 18:23:15,486 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:23:15] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:24:55,346 - root - INFO - Request received to translate to: english
+2024-08-06 18:24:55,347 - root - INFO - English text: 
+2024-08-06 18:24:55,348 - root - INFO - French text: Le patient atteint d'IRC de stade 3 présentait une fatigue croissante et un œdème généralisé. Les laboratoires ont révélé des taux élevés de BUN et de créatinine compatibles avec une aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et minimiser la charge en phosphore.
+2024-08-06 18:24:58,028 - root - INFO - Translated to English: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-06 18:24:58,028 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:24:58] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:33:38,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 18:33:38,931 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 18:33:38,934 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 18:34:05,465 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 18:34:05,495 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 18:34:07,348 - root - INFO - Request received to translate to: english
+2024-08-06 18:34:07,349 - root - INFO - English text: 
+2024-08-06 18:34:07,349 - root - INFO - French text: Le patient atteint d'IRC de stade 3 présentait une fatigue croissante et un œdème généralisé. Les laboratoires ont révélé des taux élevés de BUN et de créatinine compatibles avec une aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et minimiser la charge en phosphore.
+2024-08-06 18:34:10,151 - root - INFO - Translated to English: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-06 18:34:10,153 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:34:10] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:34:53,456 - root - INFO - Request received to translate to: french
+2024-08-06 18:34:53,457 - root - INFO - English text: The patient with CKD stage 3 presented with increasing fatigue and generalized edema. Labs revealed elevated BUN and creatinine levels consistent with worsening renal function. The nephrologist recommended dietary modifications to restrict protein intake and minimize phosphorus load. The patient was referred for vascular access evaluation in preparation for future dialysis.
+2024-08-06 18:34:53,458 - root - INFO - French text: 
+2024-08-06 18:34:57,941 - root - INFO - Translated to French: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-06 18:34:57,942 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:34:57] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:37:40,626 - root - INFO - Request received to translate to: french
+2024-08-06 18:37:40,627 - root - INFO - English text: The patient with CKD stage 3 presented with increasing fatigue and generalized edema. Labs revealed elevated BUN and creatinine levels consistent with worsening renal function. The nephrologist recommended dietary modifications to restrict protein intake and minimize phosphorus load. The patient was referred for vascular access evaluation in preparation for future dialysis.
+2024-08-06 18:37:40,628 - root - INFO - French text: 
+2024-08-06 18:37:45,167 - root - INFO - Translated to French: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-06 18:37:45,168 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:37:45] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:38:51,518 - root - INFO - Request received to translate to: english
+2024-08-06 18:38:51,518 - root - INFO - English text: 
+2024-08-06 18:38:51,518 - root - INFO - French text: Le patient atteint d'IRC de stade 3 présentait une fatigue croissante et un œdème généralisé. Les laboratoires ont révélé des taux élevés de BUN et de créatinine compatibles avec une aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et minimiser la charge en phosphore.
+2024-08-06 18:38:54,159 - root - INFO - Translated to English: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-06 18:38:54,159 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:38:54] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:39:59,406 - root - INFO - Request received to translate to: english
+2024-08-06 18:39:59,407 - root - INFO - English text: 
+2024-08-06 18:39:59,408 - root - INFO - French text: Le patient atteint de PR s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant une synovite dans plusieurs articulations. L'ESR et la CRP du patient étaient élevées, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir une rémission de la maladie et prévenir les lésions articulaires.
+2024-08-06 18:40:03,948 - root - INFO - Translated to English: The patient with PR complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 18:40:03,949 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:40:03] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:42:54,643 - root - INFO - Request received to translate to: french
+2024-08-06 18:42:54,645 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-06 18:42:54,645 - root - INFO - French text: Le patient atteint de PR s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant une synovite dans plusieurs articulations. L'ESR et la CRP du patient étaient élevées, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir une rémission de la maladie et prévenir les lésions articulaires.
+2024-08-06 18:42:59,585 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 18:42:59,585 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:42:59] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:44:00,619 - root - INFO - Request received to translate to: french
+2024-08-06 18:44:00,620 - root - INFO - English text: 
+2024-08-06 18:44:00,620 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 18:44:00,621 - root - ERROR - English text is missing for French translation
+2024-08-06 18:44:00,624 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:44:00] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-06 18:44:16,705 - root - INFO - Request received to translate to: english
+2024-08-06 18:44:16,706 - root - INFO - English text: 
+2024-08-06 18:44:16,707 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 18:44:20,835 - root - INFO - Translated to English: The patient with RA complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 18:44:20,835 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:44:20] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:44:48,777 - root - INFO - Request received to translate to: english
+2024-08-06 18:44:48,778 - root - INFO - English text: 
+2024-08-06 18:44:48,778 - root - INFO - French text: Le patient atteint de PR s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant une synovite dans plusieurs articulations. L'ESR et la CRP du patient étaient élevées, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir une rémission de la maladie et prévenir les lésions articulaires.
+2024-08-06 18:44:52,845 - root - INFO - Translated to English: The patient with PR complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 18:44:52,845 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:44:52] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:48:47,039 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-06 18:48:47,041 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-06 18:48:47,047 - werkzeug - INFO -  * Restarting with stat
+2024-08-06 18:49:12,641 - werkzeug - WARNING -  * Debugger is active!
+2024-08-06 18:49:12,659 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-06 18:49:48,861 - root - INFO - Request received to translate to: french
+2024-08-06 18:49:48,861 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-06 18:49:48,861 - root - INFO - French text: 
+2024-08-06 18:49:55,037 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-06 18:49:55,046 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:49:55] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:51:45,882 - root - INFO - Request received to translate to: english
+2024-08-06 18:51:45,884 - root - INFO - English text: 
+2024-08-06 18:51:45,884 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant une synovite dans plusieurs articulations. L'ESR et la CRP du patient étaient élevées, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir une rémission de la maladie et prévenir les lésions articulaires.
+2024-08-06 18:51:50,744 - root - INFO - Translated to English: The patient with RA complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-06 18:51:50,744 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:51:50] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:54:28,818 - root - INFO - Request received to translate to: french
+2024-08-06 18:54:28,819 - root - INFO - English text: The maximum volume of air the lungs can hold after a maximum inhalation. It is measured in liters, like TLC of 6 liters.
+2024-08-06 18:54:28,820 - root - INFO - French text: 
+2024-08-06 18:54:30,477 - root - INFO - Translated to French: Le volume maximum d'air que les poumons peuvent contenir après une inhalation maximale. Il est mesuré en litres, comme TLC de 6 litres.
+2024-08-06 18:54:30,477 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:54:30] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:55:16,458 - root - INFO - Request received to translate to: english
+2024-08-06 18:55:16,459 - root - INFO - English text: 
+2024-08-06 18:55:16,459 - root - INFO - French text: Le volume maximum d'air que les poumons peuvent contenir après une inhalation maximale. Il est mesuré en litres, comme TLC de 6 litres.
+2024-08-06 18:55:17,983 - root - INFO - Translated to English: The maximum volume of air that the lungs can contain after maximum inhalation. It is measured in litres, like TLC of 6 liters.
+2024-08-06 18:55:17,983 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:55:17] "POST /translate HTTP/1.1" 200 -
+2024-08-06 18:57:58,909 - root - INFO - Request received to translate to: english
+2024-08-06 18:57:58,910 - root - INFO - English text: 
+2024-08-06 18:57:58,911 - root - INFO - French text: Un test sanguin qui mesure la vitesse à laquelle les globules rouges se déposent au fond d'un tube. L'ESR est rapporté en millimètres par heure (mm / h) et est utilisé comme marqueur de l'inflammation, comme le taux de sédimentation des érythrocytes de 20 mm / h.
+2024-08-06 18:58:03,567 - root - INFO - Translated to English: A blood test that measures the rate at which red blood cells are deposited at the bottom of a tube. ESR is reported in millimetres per hour (mm/h) and is used as a marker of inflammation, such as the rate of erythrocyte sedimentation of 20 mm/h.
+2024-08-06 18:58:03,568 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 18:58:03] "POST /translate HTTP/1.1" 200 -
+2024-08-06 19:00:51,860 - root - INFO - Request received to translate to: english
+2024-08-06 19:00:51,860 - root - INFO - English text: 
+2024-08-06 19:00:51,860 - root - INFO - French text: Comment vous appelez-vous ? 
+2024-08-06 19:00:52,384 - root - INFO - Translated to English: What's your name?
+2024-08-06 19:00:52,384 - werkzeug - INFO - 127.0.0.1 - - [06/Aug/2024 19:00:52] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:33:07,194 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 11:33:07,194 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 11:33:07,200 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 11:33:42,071 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 11:33:42,101 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 11:33:43,486 - root - INFO - Request received to translate to: english
+2024-08-07 11:33:43,487 - root - INFO - English text: 
+2024-08-07 11:33:43,488 - root - INFO - French text: Comment vous appelez-vous ? 
+2024-08-07 11:33:44,125 - root - INFO - Translated to English: What's your name?
+2024-08-07 11:33:44,125 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:33:44] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:35:08,070 - root - INFO - Request received to translate to: english
+2024-08-07 11:35:08,070 - root - INFO - English text: 
+2024-08-07 11:35:08,070 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes 
+2024-08-07 11:35:11,898 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 11:35:11,898 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:35:11] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:40:41,855 - root - INFO - Request received to translate to: french
+2024-08-07 11:40:41,855 - root - INFO - English text: CT scans combine X-ray technology with computer processing to produce cross-sectional images of the body. They provide detailed information about bones, organs, and soft tissues, helping doctors diagnose and plan treatments for conditions such as fractures, tumors, and internal injuries.
+2024-08-07 11:40:41,855 - root - INFO - French text: 
+2024-08-07 11:40:46,282 - root - INFO - Translated to French: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 11:40:46,282 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:40:46] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:42:13,696 - root - INFO - Request received to translate to: english
+2024-08-07 11:42:13,697 - root - INFO - English text: 
+2024-08-07 11:42:13,698 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes 
+2024-08-07 11:42:16,309 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 11:42:16,309 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:42:16] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:45:20,220 - werkzeug - INFO -  * Detected change in 'C:\\Users\\vivekn\\Downloads\\ai-ml-dev-ae3fc8c7aeaad1ef4f374d896f6a09cb45806a13\\mt_v2.py', reloading
+2024-08-07 11:45:22,339 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 11:46:51,178 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 11:46:51,178 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 11:46:51,190 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 11:47:22,407 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 11:47:22,437 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 11:47:23,831 - root - INFO - Request received to translate to: english
+2024-08-07 11:47:23,834 - root - INFO - English text: 
+2024-08-07 11:47:23,835 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes 
+2024-08-07 11:47:27,133 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 11:47:27,135 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:47:27] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:51:19,576 - root - INFO - Request received to translate to: english
+2024-08-07 11:51:19,579 - root - INFO - English text: 
+2024-08-07 11:51:19,580 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes 
+2024-08-07 11:51:22,444 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 11:51:22,445 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:51:22] "POST /translate HTTP/1.1" 200 -
+2024-08-07 11:54:21,711 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 11:54:21,712 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 11:54:21,717 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 11:55:06,923 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 11:55:06,940 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 11:55:07,902 - root - INFO - Request received to translate to: english
+2024-08-07 11:55:07,904 - root - INFO - English text: 
+2024-08-07 11:55:07,905 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes 
+2024-08-07 11:55:10,361 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 11:55:10,364 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 11:55:10] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:41:07,832 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 12:41:07,834 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 12:41:07,840 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 12:41:53,124 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 12:41:53,164 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 12:42:14,342 - root - INFO - Request received to translate to: french
+2024-08-07 12:42:14,344 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-07 12:42:14,344 - root - INFO - French text: 
+2024-08-07 12:42:19,603 - root - INFO - Translated to French: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:42:19,605 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:42:19] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:43:48,728 - root - INFO - Request received to translate to: english
+2024-08-07 12:43:48,729 - root - INFO - Request received to translate to: enlgih
+2024-08-07 12:43:48,732 - root - INFO - English text: 
+2024-08-07 12:43:48,733 - root - INFO - English text: 
+2024-08-07 12:43:48,734 - root - INFO - French text: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:43:48,734 - root - INFO - French text: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:43:48,755 - root - ERROR - Invalid translation language specified
+2024-08-07 12:43:48,770 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:43:48] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-07 12:43:52,262 - root - INFO - Translated to English: RGO is a digestive disorder where stomach acid or bile irritates the wall of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 12:43:52,264 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:43:52] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:48:03,240 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 12:48:03,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 12:48:03,245 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 12:48:38,974 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 12:48:39,033 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 12:48:40,138 - root - INFO - Request received to translate to: french
+2024-08-07 12:48:40,140 - root - INFO - English text: 
+2024-08-07 12:48:40,143 - root - INFO - French text: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:48:40,143 - root - ERROR - English text is missing for French translation
+2024-08-07 12:48:40,154 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:48:40] "[31m[1mPOST /translate HTTP/1.1[0m" 400 -
+2024-08-07 12:49:01,657 - root - INFO - Request received to translate to: english
+2024-08-07 12:49:01,657 - root - INFO - English text: 
+2024-08-07 12:49:01,659 - root - INFO - French text: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:49:05,705 - root - INFO - Translated to English: RGO is a digestive disorder where stomach acid or bile irritates the wall of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 12:49:05,705 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:49:05] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:49:51,389 - root - INFO - Request received to translate to: french
+2024-08-07 12:49:51,389 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-07 12:49:51,390 - root - INFO - French text: 
+2024-08-07 12:49:55,733 - root - INFO - Translated to French: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:49:55,733 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:49:55] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:50:22,408 - root - INFO - Request received to translate to: english
+2024-08-07 12:50:22,409 - root - INFO - English text: 
+2024-08-07 12:50:22,409 - root - INFO - French text: GERD est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 12:50:25,503 - root - INFO - Translated to English: RGO is a digestive disorder where stomach acid or bile irritates the wall of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 12:50:25,503 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:50:25] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:51:41,170 - root - INFO - Request received to translate to: english
+2024-08-07 12:51:41,170 - root - INFO - English text: 
+2024-08-07 12:51:41,170 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 12:51:43,448 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 12:51:43,448 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:51:43] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:57:18,619 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 12:57:18,620 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 12:57:18,622 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 12:57:46,253 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 12:57:46,271 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 12:57:47,517 - root - INFO - Request received to translate to: english
+2024-08-07 12:57:47,518 - root - INFO - English text: 
+2024-08-07 12:57:47,519 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 12:57:49,152 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 12:57:49,152 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:57:49] "POST /translate HTTP/1.1" 200 -
+2024-08-07 12:58:28,090 - root - INFO - Request received to translate to: english
+2024-08-07 12:58:28,092 - root - INFO - English text: 
+2024-08-07 12:58:28,093 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes
+2024-08-07 12:58:31,505 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 12:58:31,505 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 12:58:31] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:02:56,122 - root - INFO - Request received to translate to: english
+2024-08-07 14:02:56,123 - root - INFO - English text: 
+2024-08-07 14:02:56,123 - root - INFO - French text: Les scanners combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes
+2024-08-07 14:02:58,930 - root - INFO - Translated to English: Scanners combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:02:58,930 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:02:58] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:03:49,029 - root - INFO - Request received to translate to: french
+2024-08-07 14:03:49,029 - root - INFO - English text: CT scans combine X-ray technology with computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:03:49,030 - root - INFO - French text: 
+2024-08-07 14:03:52,670 - root - INFO - Translated to French: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:03:52,670 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:03:52] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:08:11,899 - root - INFO - Request received to translate to: english
+2024-08-07 14:08:11,899 - root - INFO - English text: 
+2024-08-07 14:08:11,899 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:08:15,321 - root - INFO - Translated to English: Tomodensitogrammess combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:08:15,322 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:08:15] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:20:00,610 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 14:20:00,611 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 14:20:00,614 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 14:20:46,434 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 14:20:46,436 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 14:20:46,439 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 14:21:21,145 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 14:21:21,164 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 14:21:39,304 - root - INFO - Request received to translate to: english
+2024-08-07 14:21:39,304 - root - INFO - English text: 
+2024-08-07 14:21:39,304 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:21:42,784 - root - INFO - Translated to English: CT scans combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:21:42,789 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:21:42] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:22:32,304 - root - INFO - Request received to translate to: english
+2024-08-07 14:22:32,304 - root - INFO - English text: 
+2024-08-07 14:22:32,304 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 14:22:34,094 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 14:22:34,094 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:22:34] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:23:27,484 - root - INFO - Request received to translate to: english
+2024-08-07 14:23:27,486 - root - INFO - English text: 
+2024-08-07 14:23:27,488 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:23:30,988 - root - INFO - Translated to English: CT scans combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:23:30,988 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:23:30] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:24:34,256 - root - INFO - Request received to translate to: english
+2024-08-07 14:24:34,258 - root - INFO - English text: 
+2024-08-07 14:24:34,258 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 14:24:36,092 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 14:24:36,093 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:24:36] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:25:36,127 - root - INFO - Request received to translate to: english
+2024-08-07 14:25:36,127 - root - INFO - English text: 
+2024-08-07 14:25:36,127 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:25:39,713 - root - INFO - Translated to English: CT scans combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:25:39,713 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:25:39] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:25:51,526 - root - INFO - Request received to translate to: english
+2024-08-07 14:25:51,527 - root - INFO - English text: 
+2024-08-07 14:25:51,528 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 14:25:53,693 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 14:25:53,694 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:25:53] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:26:09,195 - werkzeug - INFO -  * Detected change in 'C:\\Users\\vivekn\\Downloads\\ai-ml-dev-ae3fc8c7aeaad1ef4f374d896f6a09cb45806a13\\mt_v2.py', reloading
+2024-08-07 14:26:10,995 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 14:27:03,412 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 14:27:03,412 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 14:27:03,416 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 14:27:50,900 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 14:27:50,921 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 14:27:52,077 - root - INFO - Request received to translate to: english
+2024-08-07 14:27:52,077 - root - INFO - English text: 
+2024-08-07 14:27:52,077 - root - INFO - French text: Le RCP est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 14:27:53,771 - root - INFO - Translated to English: SPC is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 14:27:53,771 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:27:53] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:28:05,958 - root - INFO - Request received to translate to: english
+2024-08-07 14:28:05,958 - root - INFO - English text: 
+2024-08-07 14:28:05,958 - root - INFO - French text: Les tomodensitogrammes combinent la technologie des rayons X et le traitement informatique pour produire des images transversales du corps. Ils fournissent des informations détaillées sur les os, les organes et les tissus mous, aidant les médecins à diagnostiquer et à planifier des traitements pour des conditions telles que les fractures, les tumeurs et les blessures internes.
+2024-08-07 14:28:09,270 - root - INFO - Translated to English: CT scans combine X-ray technology and computer processing to produce cross-sectional images of the body. They provide detailed information on bones, organs and soft tissue, helping physicians diagnose and plan treatments for conditions such as fractures, tumours and internal injuries.
+2024-08-07 14:28:09,270 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:28:09] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:29:31,849 - root - INFO - Request received to translate to: french
+2024-08-07 14:29:31,850 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-07 14:29:31,850 - root - INFO - French text: 
+2024-08-07 14:29:36,960 - root - INFO - Translated to French: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 14:29:36,960 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:29:36] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:30:32,372 - root - INFO - Request received to translate to: english
+2024-08-07 14:30:32,372 - root - INFO - English text: 
+2024-08-07 14:30:32,373 - root - INFO - French text: Le RGO est un trouble digestif dans lequel l'acide gastrique ou la bile irrite la muqueuse du tube alimentaire (œsophage), provoquant des symptômes tels que des brûlures d'estomac, des douleurs thoraciques et des régurgitations acides. Elle peut entraîner des complications si elle n'est pas traitée, comme l'œsophagite ou l'œsophage de Barrett.
+2024-08-07 14:30:35,863 - root - INFO - Translated to English: GERD is a digestive disorder in which gastric acid or bile irritates the mucous membrane of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 14:30:35,863 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:30:35] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:32:17,554 - root - INFO - Request received to translate to: english
+2024-08-07 14:32:17,554 - root - INFO - English text: 
+2024-08-07 14:32:17,556 - root - INFO - French text: Le RGO est un trouble digestif dans lequel l'acide gastrique ou la bile irrite la muqueuse du tube alimentaire (œsophage), provoquant des symptômes tels que des brûlures d'estomac, des douleurs thoraciques et des régurgitations acides. Elle peut entraîner des complications si elle n'est pas traitée, comme l'œsophagite ou l'œsophage de Barrett.
+2024-08-07 14:32:24,804 - root - INFO - Translated to English: GERD is a digestive disorder in which gastric acid or bile irritates the mucous membrane of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 14:32:24,804 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:32:24] "POST /translate HTTP/1.1" 200 -
+2024-08-07 14:32:58,017 - root - INFO - Request received to translate to: french
+2024-08-07 14:32:58,017 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-07 14:32:58,019 - root - INFO - French text: 
+2024-08-07 14:33:02,979 - root - INFO - Translated to French: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 14:33:02,979 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 14:33:02] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:42:12,481 - root - INFO - Request received to translate to: english
+2024-08-07 15:42:12,481 - root - INFO - English text: 
+2024-08-07 15:42:12,481 - root - INFO - French text: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-07 15:42:17,860 - root - INFO - Translated to English: GERD is a digestive disorder where stomach acid or bile irritates the wall of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-07 15:42:17,860 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:42:17] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:44:02,980 - root - INFO - Request received to translate to: french
+2024-08-07 15:44:02,985 - root - INFO - English text: The patient underwent a TKA for severe OA in the right knee. Postoperatively, the patient complained of incisional pain despite PCA use. The surgical team ordered NSAIDs for breakthrough pain and initiated PT to facilitate early mobilization. Serial CBCs were monitored to assess for signs of postoperative anemia or infection.
+2024-08-07 15:44:02,986 - root - INFO - French text: 
+2024-08-07 15:44:06,965 - root - INFO - Translated to French: Le patient a subi un PTG pour un OA sévère dans le genou droit. Postopératoirement, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-07 15:44:06,965 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:44:06] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:46:06,668 - root - INFO - Request received to translate to: english
+2024-08-07 15:46:06,668 - root - INFO - English text: 
+2024-08-07 15:46:06,668 - root - INFO - French text: Le patient a subi un PTG pour un OA sévère dans le genou droit. Postopératoirement, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-07 15:46:11,469 - root - INFO - Translated to English: The patient underwent TKA for a severe OA in the right knee. After surgery, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for revolutionary pain and initiated a PT to facilitate early mobilization.
+2024-08-07 15:46:11,477 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:46:11] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:56:10,255 - root - INFO - Request received to translate to: french
+2024-08-07 15:56:10,255 - root - INFO - English text: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (cardiac arrest). It involves chest compressions and rescue breathing to maintain circulation until advanced medical help arrives.
+2024-08-07 15:56:10,255 - root - INFO - French text: 
+2024-08-07 15:56:13,424 - root - INFO - Translated to French: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 15:56:13,424 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:56:13] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:56:45,301 - root - INFO - Request received to translate to: english
+2024-08-07 15:56:45,301 - root - INFO - English text: 
+2024-08-07 15:56:45,303 - root - INFO - French text: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 15:56:47,114 - root - INFO - Translated to English: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 15:56:47,114 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:56:47] "POST /translate HTTP/1.1" 200 -
+2024-08-07 15:59:10,659 - root - INFO - Request received to translate to: french
+2024-08-07 15:59:10,660 - root - INFO - English text: DVT is a condition where blood clots form in deep veins, usually in the legs. It can lead to complications such as pulmonary embolism (when a clot travels to the lungs) if not treated promptly. Symptoms include pain, swelling, warmth, and redness in the affected limb.
+2024-08-07 15:59:10,660 - root - INFO - French text: 
+2024-08-07 15:59:13,772 - root - INFO - Translated to French: La TVP est une condition où les caillots de sang se forment dans les veines profondes, généralement dans les jambes. Elle peut entraîner des complications telles que l'embolie pulmonaire (lorsqu'un caillot se déplace vers les poumons) si elle n'est pas traitée rapidement.
+2024-08-07 15:59:13,772 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 15:59:13] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:34:04,247 - root - INFO - Request received to translate to: english
+2024-08-07 16:34:04,248 - root - INFO - English text: 
+2024-08-07 16:34:04,250 - root - INFO - French text: La TVP est une condition où les caillots de sang se forment dans les veines profondes, généralement dans les jambes. Elle peut entraîner des complications telles que l'embolie pulmonaire (lorsqu'un caillot se déplace vers les poumons) si elle n'est pas traitée rapidement.
+2024-08-07 16:34:06,990 - root - INFO - Translated to English: DVT is a condition where blood clots form in the deep veins, usually in the legs. It can cause complications such as pulmonary embolism (when a clot moves towards the lungs) if not treated quickly.
+2024-08-07 16:34:06,992 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:34:06] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:36:31,031 - root - INFO - Request received to translate to: french
+2024-08-07 16:36:31,031 - root - INFO - English text: The patient underwent a TKA for severe OA in the right knee. Postoperatively, the patient complained of incisional pain despite PCA use. The surgical team ordered NSAIDs for breakthrough pain and initiated PT to facilitate early mobilization. Serial CBCs were monitored to assess for signs of postoperative anemia or infection.
+2024-08-07 16:36:31,032 - root - INFO - French text: 
+2024-08-07 16:36:34,637 - root - INFO - Translated to French: Le patient a subi un PTG pour un OA sévère dans le genou droit. Postopératoirement, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-07 16:36:34,637 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:36:34] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:38:18,587 - root - INFO - Request received to translate to: english
+2024-08-07 16:38:18,589 - root - INFO - English text: 
+2024-08-07 16:38:18,589 - root - INFO - French text: Le patient a subi un PTG pour un OA sévère dans le genou droit. Postopératoirement, le patient s'est plaint d'une douleur incisionnelle malgré l'utilisation de PCA. L'équipe chirurgicale a ordonné des AINS pour une douleur révolutionnaire et a initié un PT pour faciliter la mobilisation précoce.
+2024-08-07 16:38:21,947 - root - INFO - Translated to English: The patient underwent TKA for a severe OA in the right knee. After surgery, the patient complained of incisional pain despite the use of PCA. The surgical team ordered NSAIDs for revolutionary pain and initiated a PT to facilitate early mobilization.
+2024-08-07 16:38:21,948 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:38:21] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:40:08,452 - root - INFO - Request received to translate to: french
+2024-08-07 16:40:08,452 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-07 16:40:08,454 - root - INFO - French text: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 16:40:12,968 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 16:40:12,969 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:40:12] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:41:47,708 - root - INFO - Request received to translate to: english
+2024-08-07 16:41:47,708 - root - INFO - English text: 
+2024-08-07 16:41:47,708 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 16:41:53,212 - root - INFO - Translated to English: The patient with RA complained of morning stiffness and joint pain despite treatment with MTX. The rheumatologist performed an articular examination, noting synovitis in several joints. The patient's ESR and CRP were elevated, indicating an active disease. The rheumatologist prescribed a biological DMARD to obtain remission of the disease and prevent joint damage.
+2024-08-07 16:41:53,212 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:41:53] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:43:43,288 - root - INFO - Request received to translate to: french
+2024-08-07 16:43:43,292 - root - INFO - English text: The patient presented to the ED with acute dyspnea and CP. On assessment, the nurse noted decreased breath sounds in the left lung field and suspected a PE. The ER physician ordered a STAT CTA to rule out PE and initiated IV heparin for anticoagulation. The patient's D-dimer was markedly elevated at 1200 ng/mL, raising concern for thromboembolism. After stabilization, the patient was admitted to the ICU for further monitoring and management of suspected PE.
+2024-08-07 16:43:43,292 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 16:43:50,379 - root - INFO - Translated to French: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié une héparine IV pour l'anticoagulation. Le D-dimère du patient était fortement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-07 16:43:50,379 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:43:50] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:46:03,638 - root - INFO - Request received to translate to: french
+2024-08-07 16:46:03,639 - root - INFO - Request received to translate to: french
+2024-08-07 16:46:03,640 - root - INFO - English text: The patient presented to the ED with acute dyspnea and CP. On assessment, the nurse noted decreased breath sounds in the left lung field and suspected a PE. The ER physician ordered a STAT CTA to rule out PE and initiated IV heparin for anticoagulation. The patient's D-dimer was markedly elevated at 1200 ng/mL, raising concern for thromboembolism. After stabilization, the patient was admitted to the ICU for further monitoring and management of suspected PE.
+2024-08-07 16:46:03,640 - root - INFO - English text: The patient presented to the ED with acute dyspnea and CP. On assessment, the nurse noted decreased breath sounds in the left lung field and suspected a PE. The ER physician ordered a STAT CTA to rule out PE and initiated IV heparin for anticoagulation. The patient's D-dimer was markedly elevated at 1200 ng/mL, raising concern for thromboembolism. After stabilization, the patient was admitted to the ICU for further monitoring and management of suspected PE.
+2024-08-07 16:46:03,641 - root - INFO - French text: 
+2024-08-07 16:46:03,643 - root - INFO - French text: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 16:46:10,791 - root - INFO - Translated to French: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié une héparine IV pour l'anticoagulation. Le D-dimère du patient était fortement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-07 16:46:10,792 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:46:10] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:46:10,807 - root - INFO - Translated to French: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié une héparine IV pour l'anticoagulation. Le D-dimère du patient était fortement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-07 16:46:10,816 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:46:10] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:48:29,618 - root - INFO - Request received to translate to: english
+2024-08-07 16:48:29,620 - root - INFO - English text: 
+2024-08-07 16:48:29,622 - root - INFO - French text: Lors de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et a soupçonné un PE. Le médecin de l'ER a ordonné à un STAT CTA d'exclure le PE et a initié une héparine IV pour l'anticoagulation. Le D-dimère du patient était fortement élevé à 1200 ng/mL, ce qui soulevait des préoccupations pour la thromboembolie.
+2024-08-07 16:48:33,373 - root - INFO - Translated to English: During the evaluation, the nurse noted a decrease in respiratory sounds in the left lung field and suspected PE. The ER physician directed a CBP SBPT to exclude PE and initiated heparin IV for anti-coagulation. The patient's D-dimer was strongly elevated to 1200 ng/mL, which raised concerns for thromboembolism.
+2024-08-07 16:48:33,373 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:48:33] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:50:50,681 - root - INFO - Request received to translate to: french
+2024-08-07 16:50:50,682 - root - INFO - English text: The patient with CKD stage 3 presented with increasing fatigue and generalized edema. Labs revealed elevated BUN and creatinine levels consistent with worsening renal function. The nephrologist recommended dietary modifications to restrict protein intake and minimize phosphorus load. The patient was referred for vascular access evaluation in preparation for future dialysis.
+2024-08-07 16:50:50,682 - root - INFO - French text: 
+2024-08-07 16:50:54,349 - root - INFO - Translated to French: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-07 16:50:54,350 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:50:54] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:57:03,269 - root - INFO - Request received to translate to: english
+2024-08-07 16:57:03,271 - root - INFO - English text: 
+2024-08-07 16:57:03,271 - root - INFO - French text: Les labos ont révélé des taux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore. Le patient a été orienté vers l'évaluation de l'accès vasculaire en préparation de la dialyse future.
+2024-08-07 16:57:05,924 - root - INFO - Translated to English: The labs revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and reduce phosphorus loading. The patient was directed to assess vascular access in preparation for future dialysis.
+2024-08-07 16:57:05,924 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:57:05] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:57:59,069 - root - INFO - Request received to translate to: english
+2024-08-07 16:57:59,069 - root - INFO - English text: 
+2024-08-07 16:57:59,071 - root - INFO - French text: Le patient atteint d'IRC de stade 3 présentait une fatigue croissante et un œdème généralisé. Les laboratoires ont révélé des taux élevés de BUN et de créatinine compatibles avec une aggravation de la fonction rénale. Le néphrologue a recommandé des modifications alimentaires pour limiter l'apport en protéines et minimiser la charge en phosphore.
+2024-08-07 16:58:01,809 - root - INFO - Translated to English: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-07 16:58:01,809 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:58:01] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:58:44,140 - root - INFO - Request received to translate to: french
+2024-08-07 16:58:44,141 - root - INFO - English text: The patient with Stage 3 IRC showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-07 16:58:44,141 - root - INFO - French text: 
+2024-08-07 16:58:46,718 - root - INFO - Translated to French: Les laboratoires ont révélé des niveaux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des changements alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore.
+2024-08-07 16:58:46,718 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:58:46] "POST /translate HTTP/1.1" 200 -
+2024-08-07 16:59:48,095 - root - INFO - Request received to translate to: french
+2024-08-07 16:59:48,095 - root - INFO - English text: The patient with Stage 3 CKD showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-07 16:59:48,096 - root - INFO - French text: 
+2024-08-07 16:59:50,592 - root - INFO - Translated to French: Les laboratoires ont révélé des niveaux élevés de BUN et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des changements alimentaires pour limiter l'apport en protéines et réduire la charge en phosphore.
+2024-08-07 16:59:50,594 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 16:59:50] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:03:25,279 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 17:03:25,279 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 17:03:25,279 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 17:04:04,827 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 17:04:04,847 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 17:04:04,907 - root - INFO - Request received to translate to: french
+2024-08-07 17:04:04,907 - root - INFO - English text: The patient with Stage 3 CKD showed increasing fatigue and widespread oedema. Laboratories revealed high levels of BUN and creatinine compatible with worsening renal function. The nephrologist recommended dietary changes to limit protein intake and minimize phosphorus loading.
+2024-08-07 17:04:04,907 - root - INFO - French text: 
+2024-08-07 17:04:09,136 - root - INFO - Translated to French: Les laboratoires ont révélé des niveaux élevés d'Urée sanguine et de créatinine compatibles avec l'aggravation de la fonction rénale. Le néphrologue a recommandé des changements alimentaires pour limiter l'apport en protéine et réduire la charge en phosphore.
+2024-08-07 17:04:09,139 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:04:09] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:05:43,806 - root - INFO - Request received to translate to: french
+2024-08-07 17:05:43,806 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-07 17:05:43,811 - root - INFO - French text: 
+2024-08-07 17:05:51,662 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 17:05:51,662 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:05:51] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:06:37,645 - root - INFO - Request received to translate to: french
+2024-08-07 17:06:37,646 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-07 17:06:37,646 - root - INFO - French text: 
+2024-08-07 17:06:44,120 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 17:06:44,128 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:06:44] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:08:11,272 - werkzeug - INFO -  * Detected change in 'C:\\Users\\vivekn\\Downloads\\ai-ml-dev-ae3fc8c7aeaad1ef4f374d896f6a09cb45806a13\\mt_v2.py', reloading
+2024-08-07 17:08:13,809 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 17:08:57,796 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 17:08:57,810 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 17:08:57,861 - root - INFO - Request received to translate to: french
+2024-08-07 17:08:57,861 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-07 17:08:57,861 - root - INFO - French text: 
+2024-08-07 17:09:02,381 - root - INFO - Request received to translate to: french
+2024-08-07 17:09:02,381 - root - INFO - English text: The patient with RA complained of morning stiffness and joint pain despite MTX therapy. The rheumatologist performed a joint exam, noting synovitis in multiple joints. The patient's ESR and CRP were elevated, indicating active disease. The rheumatologist prescribed a biologic DMARD to achieve disease remission and prevent joint damage.
+2024-08-07 17:09:02,381 - root - INFO - French text: 
+2024-08-07 17:09:04,515 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 17:09:04,520 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:09:04] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:09:08,223 - root - INFO - Translated to French: Le patient atteint de RA s'est plaint de raideur matinale et de douleurs articulaires malgré le traitement par MTX. Le rhumatologue a effectué un examen articulaire, notant la synovite dans plusieurs articulations. L'ESR et le CRP du patient étaient élevés, indiquant une maladie active. Le rhumatologue a prescrit un DMARD biologique pour obtenir la rémission de la maladie et prévenir les dommages articulaires.
+2024-08-07 17:09:08,223 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:09:08] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:09:46,453 - root - INFO - Request received to translate to: french
+2024-08-07 17:09:46,453 - root - INFO - English text: During the evaluation, the nurse noted a decrease in respiratory sounds in the left lung field and suspected PE. The ER physician directed a CBP SBPT to exclude PE and initiated heparin IV for anti-coagulation. The patient's D-dimer was strongly elevated to 1200 ng/mL, which raised concerns for thromboembolism.
+2024-08-07 17:09:46,453 - root - INFO - French text: 
+2024-08-07 17:09:54,915 - root - INFO - Translated to French: Au cours de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et soupçonné de PE. Le médecin des urgences a ordonné à un CBP SBPT d'exclure le PE et a initié l'héparine IV pour l'anticoagulation. Le D-dimère du patient a été fortement élevé à 1200 ng/mL, ce qui a soulevé des préoccupations pour la thromboembolie.
+2024-08-07 17:09:54,915 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:09:54] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:13:37,354 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 17:13:37,355 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 17:13:37,357 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 17:14:02,602 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 17:14:02,625 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 17:14:18,141 - root - INFO - Request received to translate to: french
+2024-08-07 17:14:18,143 - root - INFO - English text: During the evaluation, the nurse noted a decrease in respiratory sounds in the left lung field and suspected PE. The ER physician directed a CBP SBPT to exclude PE and initiated heparin IV for anti-coagulation. The patient's D-dimer was strongly elevated to 1200 ng/mL, which raised concerns for thromboembolism.
+2024-08-07 17:14:18,143 - root - INFO - French text: 
+2024-08-07 17:14:24,403 - root - INFO - Translated to French: Au cours de l'évaluation, l'infirmière a noté une diminution des sons respiratoires dans le champ pulmonaire gauche et soupçonné de PE. Le médecin des urgences a ordonné à un CBP SBPT d'exclure le PE et a initié l'héparine IV pour l'anticoagulation. Le D-dimère du patient a été fortement élevé à 1200 ng/mL, ce qui a soulevé des préoccupations pour la thromboembolie.
+2024-08-07 17:14:24,406 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:14:24] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:14:56,335 - root - INFO - Request received to translate to: french
+2024-08-07 17:14:56,335 - root - INFO - English text: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (cardiac arrest). It involves chest compressions and rescue breathing to maintain circulation until advanced medical help arrives.
+2024-08-07 17:14:56,335 - root - INFO - French text: 
+2024-08-07 17:14:59,406 - root - INFO - Translated to French: L'ARC est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 17:14:59,406 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:14:59] "POST /translate HTTP/1.1" 200 -
+2024-08-07 17:17:21,341 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-07 17:17:21,341 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-07 17:17:21,345 - werkzeug - INFO -  * Restarting with stat
+2024-08-07 17:17:49,004 - werkzeug - WARNING -  * Debugger is active!
+2024-08-07 17:17:49,023 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-07 17:18:12,640 - root - INFO - Request received to translate to: french
+2024-08-07 17:18:12,641 - root - INFO - English text: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (cardiac arrest). It involves chest compressions and rescue breathing to maintain circulation until advanced medical help arrives.
+2024-08-07 17:18:12,641 - root - INFO - French text: 
+2024-08-07 17:18:14,823 - root - INFO - Translated to French: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 17:18:14,825 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 17:18:14] "POST /translate HTTP/1.1" 200 -
+2024-08-07 18:20:09,891 - root - INFO - Request received to translate to: english
+2024-08-07 18:20:09,891 - root - INFO - English text: 
+2024-08-07 18:20:09,891 - root - INFO - French text: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-07 18:20:12,275 - root - INFO - Translated to English: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-07 18:20:12,288 - werkzeug - INFO - 127.0.0.1 - - [07/Aug/2024 18:20:12] "POST /translate HTTP/1.1" 200 -
+2024-08-07 18:34:44,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\vivekn\\Downloads\\ai-ml-dev-ae3fc8c7aeaad1ef4f374d896f6a09cb45806a13\\api.py', reloading
+2024-08-08 10:36:41,430 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-08 10:36:41,430 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-08 10:36:41,436 - werkzeug - INFO -  * Restarting with stat
+2024-08-08 10:38:05,332 - werkzeug - WARNING -  * Debugger is active!
+2024-08-08 10:38:05,414 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-08 10:38:09,859 - root - INFO - Request received to translate to: english
+2024-08-08 10:38:09,863 - root - INFO - English text: 
+2024-08-08 10:38:09,863 - root - INFO - French text: RCR est une procédure d'urgence effectuée pour pomper manuellement le sang et fournir de l'oxygène au cerveau et à d'autres organes vitaux lorsque le cœur d'une personne cesse de battre (arrêt cardiaque).
+2024-08-08 10:38:11,768 - root - INFO - Translated to English: CPR is an emergency procedure performed to manually pump blood and provide oxygen to the brain and other vital organs when a person's heart stops beating (heart arrest).
+2024-08-08 10:38:11,768 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 10:38:11] "POST /translate HTTP/1.1" 200 -
+2024-08-08 11:54:40,444 - root - INFO - Request received to translate to: french
+2024-08-08 11:54:40,445 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-08 11:54:40,445 - root - INFO - French text: 
+2024-08-08 11:54:45,346 - root - INFO - Translated to French: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-08 11:54:45,346 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 11:54:45] "POST /translate HTTP/1.1" 200 -
+2024-08-08 12:11:54,121 - werkzeug - INFO -  * Detected change in 'C:\\Users\\vivekn\\Downloads\\ai-ml-dev-ae3fc8c7aeaad1ef4f374d896f6a09cb45806a13\\translation_machine_v2.py', reloading
+2024-08-08 12:11:56,786 - werkzeug - INFO -  * Restarting with stat
+2024-08-08 12:12:24,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-08 12:12:24,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-08 12:12:24,281 - werkzeug - INFO -  * Restarting with stat
+2024-08-08 12:12:38,021 - werkzeug - WARNING -  * Debugger is active!
+2024-08-08 12:12:38,064 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-08 12:12:40,016 - werkzeug - WARNING -  * Debugger is active!
+2024-08-08 12:12:40,027 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-08 12:13:02,226 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-08 12:13:02,226 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-08 12:13:02,226 - werkzeug - INFO -  * Restarting with stat
+2024-08-08 12:13:17,151 - werkzeug - WARNING -  * Debugger is active!
+2024-08-08 12:13:17,171 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-08 12:16:08,218 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-08 12:16:08,219 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-08-08 12:16:08,219 - werkzeug - INFO -  * Restarting with stat
+2024-08-08 12:16:31,722 - werkzeug - WARNING -  * Debugger is active!
+2024-08-08 12:16:31,739 - werkzeug - INFO -  * Debugger PIN: 887-665-153
+2024-08-08 12:16:32,757 - root - INFO - Request received to translate to: french
+2024-08-08 12:16:32,757 - root - INFO - English text: GERD is a digestive disorder where stomach acid or bile irritates the lining of the food pipe (esophagus), causing symptoms such as heartburn, chest pain, and regurgitation of acid. It can lead to complications if left untreated, such as esophagitis or Barrett's esophagus.
+2024-08-08 12:16:32,760 - root - INFO - French text: 
+2024-08-08 12:16:37,364 - root - INFO - Translated to French: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-08 12:16:37,364 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 12:16:37] "POST /translate HTTP/1.1" 200 -
+2024-08-08 12:18:03,507 - root - INFO - Request received to translate to: english
+2024-08-08 12:18:03,507 - root - INFO - English text: 
+2024-08-08 12:18:03,507 - root - INFO - French text: RGO est un trouble digestif où l'acide de l'estomac ou la bile irrite la paroi du tube alimentaire (œsophage), provoquant des symptômes tels que brûlures d'estomac, douleurs thoraciques et régurgitation de l'acide. Il peut entraîner des complications si elle n'est pas traitée, comme l'oesophagite ou l'oesophage de Barrett.
+2024-08-08 12:18:08,294 - root - INFO - Translated to English: GERD is a digestive disorder where stomach acid or bile irritates the wall of the food tube (oesophagus), causing symptoms such as heartburn, chest pain and acid regurgitation. It can cause complications if not treated, such as the estophagus or Barrett's esophagus.
+2024-08-08 12:18:08,294 - werkzeug - INFO - 127.0.0.1 - - [08/Aug/2024 12:18:08] "POST /translate HTTP/1.1" 200 -
